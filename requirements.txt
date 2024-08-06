@@ -1,0 +1,9 @@
+pyinotify
+requests
+requests-toolbelt
+numpy
+tensorflow==2.13.1
+pydicom
+python-multipart
+boto3
+pynetdicom
